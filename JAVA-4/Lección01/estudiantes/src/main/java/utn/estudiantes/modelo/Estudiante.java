@@ -11,6 +11,8 @@ import lombok.ToString;
 
 @Entity // esto hace que jakarta se importe solo
 // boilerplate - Repetitivo
+// con lombok, hibernate y springboot, simplificamos muchas líneas de código
+// anteriormente para hacer lo mismo utilizamos +80 líneas de código, ahora solo 28
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
