@@ -14,7 +14,7 @@ public class EstudianteDao {
     public List<Estudiante> listarEstudiantes() {
         List<Estudiante> estudiantes = new ArrayList<>();
 
-        // Creamos algunos objetos necesarios para comunicarnos con la base de datos 
+        // Creamos algunos objetos necesarios para comunicarnos con la base de datos
         PreparedStatement ps; // Envía la sentencia
         ResultSet rs;  // Obtiene el resultado
 
@@ -124,7 +124,7 @@ public class EstudianteDao {
         Connection con = getConnection();
 
         String sql = "UPDATE estudiantes2022 SET nombre=?, apellido=?, telefono=?, email=? WHERE idestudiantes2022=?";
-        
+
         try {
             ps = con.prepareStatement(sql);
 
@@ -190,14 +190,14 @@ public class EstudianteDao {
         /*
         // Agregar Estudiante
         var est2 = new Estudiante("Carlas", "Lol", "12346969", "cjasdñ@gmuil.cum");
-        
+
         var agregado = estudianteDao.agregarEst(est2);
 
         if (agregado) {
             System.out.println("Estudiante agregado: " + est2);
         } else {
             System.out.println("No se ha agregado estudiante: " + est2);
-        } 
+        }
         */
 
 
