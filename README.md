@@ -34,11 +34,11 @@ En este cuadro, se detallan las responsabilidades de los Scrum Leads para las pr
 | 3      | [Ana Ascua](https://github.com/aniascua) | [Proyecto 1436](https://github.com/orgs/CodeSystem2022/projects/1436)                |
 | 4      | [Ana Ascua](https://github.com/aniascua) | [Proyecto 1435](https://github.com/orgs/CodeSystem2022/projects/1435)                |
 | 5      | [Ana Ascua](https://github.com/aniascua) | [Proyecto 1472](https://github.com/orgs/CodeSystem2022/projects/1472)                |
-| 6      | [Maricel Luna](#)                    |                                                                       |
-| 7      | [Maricel Luna](#)                    |                                                                       |
-| 8      | [Maricel Luna](#)                    |                                                                       |
-| 9      | [Maricel Luna](#)                    |                                                                       |
-| 10     | [Maricel Luna](#)                    |                                                                       |
+| 6      | Maricel Luna                    |                                                                       |
+| 7      | Maricel Luna                   |                                                                       |
+| 8      | Maricel Luna                  |                                                                       |
+| 9      | Maricel Luna                  |                                                                       |
+| 10     | Maricel Luna                 |                                                                       |
 
 <div align="center">
   <h2><b>Integrantes</b></h2>
