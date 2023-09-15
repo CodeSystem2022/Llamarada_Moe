@@ -9,42 +9,36 @@
     </a>
   </div>
 </div>
-
 <br>
-
 <div align="center">
   <a href="https://www.java.com/"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="Java" width="90" height="90"></a>
   <a href="https://www.javascript.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="80" height="80"></a>
   <a href="https://www.python.org"><img src="https://miro.medium.com/v2/resize:fit:378/1*y6zvdl68fA-5nd9v-StFMg.png" alt="Python" width="90" height="90"></a>
-  <a href="https://www.postgresql.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="90" height="90"></a>
   <a href="https://nodejs.org/"><img src="https://vistaran-tech.s3.ap-south-1.amazonaws.com/wp-content/uploads/2022/05/13104926/nodejs-logo.png" alt="Node.js" width="100" height="100"></a>
   <a href="https://www.mysql.com/products/workbench/"><img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="MySQL Workbench" width="90" height="90"></a>
-  <a href="https://www.postman.com/"><img src="https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj" alt="Postman" width="90" height="90"></a>
+<a href="https://spring.io/projects/spring-boot" style="margin-top: 40%;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="Spring Boot" width="130" height="130">
+  </a>
 </div>
-
-
-
 <br>
-
 <div align="center">
-  <h2><b>4to Semestre 2023</b></h2>
+  <h2><b>4to semestre 2023 - UTN</b></h2>
+  <p><b>Tecnicatura Universitaria en Programación</b></p>
 </div>
-
 En este cuadro, se detallan las responsabilidades de los Scrum Leads para las próximas semanas:
 
-| <div align="center"><b>Semana 🚀</b></div> | <div align="center"><b>Scrum Lead</b></div> | <div align="center"><b>Proyecto</b></div> |
-| :-------: | :-------: | :-------: |
-|    💻 1    | [Ana Ascua](https://github.com/aniascua) | [Proyecto 1433](https://github.com/orgs/CodeSystem2022/projects/1433/views/1) |
-|    📝 2    | [Maricel Luna](https://github.com/Macelluna) | [Proyecto #](https://github.com/orgs/CodeSystem2022/projects/) |
-|    📆 3    |           |           |
-|    📊 4    |           |           |
-|    🔍 5    |           |           |
-|    ⚙️ 6    |           |           |
-|    📊 7    |           |           |
-|    🖥️ 8    |           |           |
-|    🌐 9    |           |           |
-|    💾 10   |           |           |
-
+| 📆 Semana N° |✏️Alumna                               | 📋 Proyectos Semanales                                    |
+|--------|--------------------------------------|-----------------------------------------------------------------------|
+| 1      | [Ana Ascua](https://github.com/aniascua) | [Proyecto 1433](https://github.com/orgs/CodeSystem2022/projects/1433) |
+| 2      | [Ana Ascua](https://github.com/aniascua) | [Proyecto 1434](https://github.com/orgs/CodeSystem2022/projects/1434)                |
+| 3      | [Ana Ascua](https://github.com/aniascua) | [Proyecto 1436](https://github.com/orgs/CodeSystem2022/projects/1436)                |
+| 4      | [Ana Ascua](https://github.com/aniascua) | [Proyecto 1435](https://github.com/orgs/CodeSystem2022/projects/1435)                |
+| 5      | [Ana Ascua](https://github.com/aniascua) | [Proyecto 1472](https://github.com/orgs/CodeSystem2022/projects/1472)                |
+| 6      | [Maricel Luna](#)                    |                                                                       |
+| 7      | [Maricel Luna](#)                    |                                                                       |
+| 8      | [Maricel Luna](#)                    |                                                                       |
+| 9      | [Maricel Luna](#)                    |                                                                       |
+| 10     | [Maricel Luna](#)                    |                                                                       |
 
 <div align="center">
   <h2><b>Integrantes</b></h2>
@@ -52,4 +46,3 @@ En este cuadro, se detallan las responsabilidades de los Scrum Leads para las pr
 
 - [Ana Ascua](https://github.com/aniascua)
 - [Maricel Luna](https://github.com/Macelluna)
-
