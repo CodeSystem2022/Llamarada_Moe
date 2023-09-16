@@ -1,10 +1,13 @@
-## Tecnologías Utilizadas
+# E-Commerce en JavaScript
 
+En el 4to semestre de la Tecnicatura Universitaria en Programación - UTN FRSR, aprendimos a construir una tienda en línea que permite a los usuarios explorar productos, agregarlos al carrito y realizar compras simuladas con MercadoPago
+
+**Tecnologías Utilizadas**
 - HTML5
 - CSS3
 - JavaScript
 
-## Funcionalidades Destacadas
+**Funcionalidades Destacadas**
 
 - **Grid de Productos**: Los usuarios ven un grid con los productos disponibles
 
