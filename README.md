@@ -21,31 +21,30 @@
   </a>
 </div>
 
-
+<br> 
 
 https://github.com/CodeSystem2022/Llamarada_Moe/assets/83845164/13845e6a-710e-4f51-a79a-a63a0e460e13
 
-
-
 <br>
-<div align="center">
-  <h2><b>4to semestre 2023 - UTN</b></h2>
-  <p><b>Tecnicatura Universitaria en Programación</b></p>
-</div>
-En este cuadro, se detallan las responsabilidades de los Scrum Leads para las próximas semanas:
 
-| 📆 Semana N° |✏️Alumna                               | 📋 Proyectos Semanales                                    |
+
+<div align="center">
+  <h2><b>Tecnicatura Universitaria en Programación -   4to semestre 2023 - UTN</b></h2>
+</div>
+
+| 📆 Semana N° |✏️ Alumna                              | 📋 Proyectos Semanales                                    |
 |--------|--------------------------------------|-----------------------------------------------------------------------|
 | 1      | [Ana Ascua](https://github.com/aniascua) | [Proyecto 1433](https://github.com/orgs/CodeSystem2022/projects/1433) |
-| 2      | [Ana Ascua](https://github.com/aniascua) | [Proyecto 1434](https://github.com/orgs/CodeSystem2022/projects/1434)                |
-| 3      | [Ana Ascua](https://github.com/aniascua) | [Proyecto 1436](https://github.com/orgs/CodeSystem2022/projects/1436)                |
-| 4      | [Ana Ascua](https://github.com/aniascua) | [Proyecto 1435](https://github.com/orgs/CodeSystem2022/projects/1435)                |
-| 5      | [Ana Ascua](https://github.com/aniascua) | [Proyecto 1472](https://github.com/orgs/CodeSystem2022/projects/1472)                |
-| 6      | Maricel Luna                    |                                                                       |
-| 7      | Maricel Luna                   |                                                                       |
-| 8      | Maricel Luna                  |                                                                       |
-| 9      | Maricel Luna                  |                                                                       |
-| 10     | Maricel Luna                 |                                                                       |
+| 2      | [Ana Ascua](https://github.com/aniascua) | [Proyecto 1434](https://github.com/orgs/CodeSystem2022/projects/1434) |
+| 3      | [Ana Ascua](https://github.com/aniascua) | [Proyecto 1436](https://github.com/orgs/CodeSystem2022/projects/1436) |
+| 4      | [Ana Ascua](https://github.com/aniascua) | [Proyecto 1435](https://github.com/orgs/CodeSystem2022/projects/1435) |
+| 5      | [Ana Ascua](https://github.com/aniascua) | [Proyecto 1472](https://github.com/orgs/CodeSystem2022/projects/1472) |
+| 6      | [Maricel Luna](https://github.com/Macelluna) | [Proyecto #](https://github.com/orgs/CodeSystem2022/projects/#)       |
+| 7      | [Maricel Luna](https://github.com/Macelluna) | [Proyecto #](https://github.com/orgs/CodeSystem2022/projects/#)       |
+| 8      | [Maricel Luna](https://github.com/Macelluna) | [Proyecto #](https://github.com/orgs/CodeSystem2022/projects/#)       |
+| 9      | [Maricel Luna](https://github.com/Macelluna) | [Proyecto #](https://github.com/orgs/CodeSystem2022/projects/#)       |
+| 10     | [Maricel Luna](https://github.com/Macelluna) | [Proyecto #](https://github.com/orgs/CodeSystem2022/projects/#)       |
+
 
 <div align="center">
   <h2><b>Integrantes</b></h2>
