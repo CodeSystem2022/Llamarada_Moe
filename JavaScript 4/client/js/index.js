@@ -5,10 +5,10 @@ productos.forEach((product) => {
   const content = document.createElement("div");
   content.className = "card"; // Agregar esta clase
   content.innerHTML = `
-    <img src="${product.img}" class="product-img"> <!-- Agregar clase -->
-    <h3 class="product-name">${product.productName}</h3> <!-- Agregar clase -->
-    <p class="product-price">$${product.price}</p> <!-- Agregar el símbolo "$" delante del precio -->
-    <button class="buy-button">Comprar</button> <!-- Cambiar a "Comprar" -->
+    <img src="${product.img}" class="product-img"> 
+    <h3 class="product-name">${product.productName}</h3> 
+    <p class="product-price">$${product.price}</p>
+    <button class="buy-button">Comprar</button>
   `;
 
   shopContent.append(content);
