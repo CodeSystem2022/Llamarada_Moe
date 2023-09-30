@@ -1,6 +1,7 @@
-import { Pool } from "pg";
+import pg from "pg";
 
-const pool = new Pool({
+
+export const pool = pg.Pool({
     port = 5432,
     host: "localhost",
     user: "postgres",
