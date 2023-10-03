@@ -22,7 +22,7 @@ app.use('/api',authRoutes);
 app.use((err, req, res, next) => {
     res.status(500).json({
         status: "error",
-        message: errorMap.message
+        message: err.message
     });
 });
 

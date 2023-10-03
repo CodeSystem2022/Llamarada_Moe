@@ -1,5 +1,7 @@
 import app from "./app.js";
-import { pool } from "./db.js";
+
+
+/*import { pool } from "./db.js";
 
 pool.query("SELECT NOW()", (err, res) => {
     console.log(err, res.rows);
@@ -7,3 +9,5 @@ pool.query("SELECT NOW()", (err, res) => {
     console.log("Server on port", 3000);    
     pool.end();
 });
+
+*/
