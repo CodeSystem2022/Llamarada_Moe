@@ -40,7 +40,7 @@ https://github.com/CodeSystem2022/Llamarada_Moe/assets/83845164/13845e6a-710e-4f
 | 4      | [Ana Ascua](https://github.com/aniascua) | [Proyecto 1435](https://github.com/orgs/CodeSystem2022/projects/1435) |
 | 5      | [Ana Ascua](https://github.com/aniascua) | [Proyecto 1472](https://github.com/orgs/CodeSystem2022/projects/1472) |
 | 6      | [Maricel Luna](https://github.com/Macelluna) | [Proyecto 1626](https://github.com/orgs/CodeSystem2022/projects/1626)       |
-| 7      | [Maricel Luna](https://github.com/Macelluna) | [Proyecto #](https://github.com/orgs/CodeSystem2022/projects/#)       |
+| 7      | [Maricel Luna](https://github.com/Macelluna) | [Proyecto 1629](https://github.com/orgs/CodeSystem2022/projects/1629)       |
 | 8      | [Maricel Luna](https://github.com/Macelluna) | [Proyecto #](https://github.com/orgs/CodeSystem2022/projects/#)       |
 | 9      | [Maricel Luna](https://github.com/Macelluna) | [Proyecto #](https://github.com/orgs/CodeSystem2022/projects/#)       |
 | 10     | [Maricel Luna](https://github.com/Macelluna) | [Proyecto #](https://github.com/orgs/CodeSystem2022/projects/#)       |
