@@ -10,9 +10,6 @@
   </div>
 </div>
 
-## Proyecto Final e-Commerce finalizado: Tazas Llamarada Moe:
-
-https://github.com/CodeSystem2022/Llamarada_Moe/assets/83845164/13845e6a-710e-4f51-a79a-a63a0e460e13
 
 <br>
 
