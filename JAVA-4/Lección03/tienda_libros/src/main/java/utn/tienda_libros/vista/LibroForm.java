@@ -7,6 +7,8 @@ import utn.tienda_libros.modelo.Libro;
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 import java.awt.*;
+import java.awt.event.MouseAdapter;
+import java.awt.event.MouseEvent;
 
 @Component
 public class LibroFrom extends JFrame {
@@ -19,7 +21,8 @@ public class LibroFrom extends JFrame {
     private JButton modificarButton;
     private JButton eliminarButton;
     private JButton agregarButton;
-    private JTable tablaLibro;
+    private JTable tablaLibros;
+    private JTextField idTexto;
     private DefaultTableModel tablaModeloLibros;
 
     @Autowired
@@ -27,6 +30,13 @@ public class LibroFrom extends JFrame {
         this.libroServicio = libroServicio;
         iniciarForma();
         agregarButton.addActionListener(e -> agregarLibro());
+        tablaLibro.addMouseListener(new MouseAdapter() {
+            @Override
+            public void mouseClicked(MouseEvent e) {
+                super.mouseClicked(e);
+                cargarLibroSeleccionado();
+            }
+        });
     }
 
     private void iniciarForma() {
@@ -47,7 +57,6 @@ public class LibroFrom extends JFrame {
             mostrarMensaje("Ingresa el nombre del libro");
             libroTexto.requestFocusInWindow();
             return;
-
         }
         var nombreLibro = libroTexto.getText();
         var autor = autorTexto.getText();
@@ -64,6 +73,14 @@ public class LibroFrom extends JFrame {
         listarLibros();
     }
 
+    private void cargarLibroSeleccionado() {
+        // Los índices de las columnas inician en 0
+        var renglon = tablaLibros.getSelectedRow();
+        if(renglon != -1) {
+            String idLibro = tablaLibros.getModel().getValueAt(renglon, 0).toString();
+        }
+    }
+
     private void limpiarFormulario(){
         libroTexto.setText("");
         autorTexto.setText("");
@@ -76,6 +93,8 @@ public class LibroFrom extends JFrame {
     }
 
     private void createUIComponents() {
+        idTexto = new JTextField("");
+        idTexto.setVisible(false); // no será visible en el formulario
         this.tablaModeloLibros = new DefaultTableModel(0, 5);
         String[] cabecera = {"Id", "Libro", "Autor", "Precio", "Existencias"};
         this.tablaModeloLibros.setColumnIdentifiers(cabecera);
