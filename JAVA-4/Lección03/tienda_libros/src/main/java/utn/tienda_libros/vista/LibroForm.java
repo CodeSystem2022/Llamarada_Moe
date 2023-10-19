@@ -155,7 +155,12 @@ public class LibroFrom extends JFrame {
     private void createUIComponents() {
         idTexto = new JTextField("");
         idTexto.setVisible(false); // no será visible en el formulario
-        this.tablaModeloLibros = new DefaultTableModel(0, 5);
+        this.tablaModeloLibros = new DefaultTableModel(0, 5) {
+            @Override
+            public boolean isCellEditable(int row, int column) {
+                return false; // evitamos que se pueda editar el formulario manualmente de parte del usuario
+            }
+        };
         String[] cabecera = {"Id", "Libro", "Autor", "Precio", "Existencias"};
         this.tablaModeloLibros.setColumnIdentifiers(cabecera);
         // Instanciamos el objeto de JTable
