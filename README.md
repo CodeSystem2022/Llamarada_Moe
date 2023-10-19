@@ -27,7 +27,7 @@
 | 5      | [Ana Ascua](https://github.com/aniascua) | [Proyecto 1472](https://github.com/orgs/CodeSystem2022/projects/1472) |
 | 6      | [Maricel Luna](https://github.com/Macelluna) | [Proyecto 1626](https://github.com/orgs/CodeSystem2022/projects/1626)       |
 | 7      | [Maricel Luna](https://github.com/Macelluna) | [Proyecto 1629](https://github.com/orgs/CodeSystem2022/projects/1629)       |
-| 8      | [Maricel Luna](https://github.com/Macelluna) | [Proyecto #](https://github.com/orgs/CodeSystem2022/projects/#)       |
+| 8      | [Maricel Luna](https://github.com/Macelluna) | [Proyecto 1748](https://github.com/orgs/CodeSystem2022/projects/1748/)       |
 | 9      | [Maricel Luna](https://github.com/Macelluna) | [Proyecto #](https://github.com/orgs/CodeSystem2022/projects/#)       |
 | 10     | [Maricel Luna](https://github.com/Macelluna) | [Proyecto #](https://github.com/orgs/CodeSystem2022/projects/#)       |
 
