@@ -165,6 +165,8 @@ public class LibroFrom extends JFrame {
         this.tablaModeloLibros.setColumnIdentifiers(cabecera);
         // Instanciamos el objeto de JTable
         this.tablaLibro = new JTable(tablaModeloLibros);
+        tablaLibros.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
+        // Evitamos que se seleccionen varios registros
         listarLibros();
     }
 
