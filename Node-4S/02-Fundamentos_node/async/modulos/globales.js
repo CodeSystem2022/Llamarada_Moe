@@ -30,5 +30,8 @@
 
 setImmediate(()=>{
     console.log('Saludo Inmediato');
-    
+
 })
+//require();
+
+console.log(process)
